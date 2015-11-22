@@ -193,7 +193,7 @@ The ``python-bolt-spec`` takes at least 4 arguments:
 4. A list of the named fields the spout will output
 5. Any optional keyword arguments, such as parallelism ``:p 2``
 
-Parallelism is further discussed in :ref:`parallelism`.
+Parallelism is further discussed in _`parallelism`.
 
 
 Groupings
