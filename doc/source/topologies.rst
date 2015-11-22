@@ -315,7 +315,7 @@ Common approaches are to:
 * Ignore the failed tuple, if appropriate to the application.
 
 
-.. _parallelism:
+.. _`parallelism`:
 
 Parallelism and Workers
 -----------------------
